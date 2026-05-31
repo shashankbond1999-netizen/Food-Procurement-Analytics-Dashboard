@@ -53,7 +53,7 @@ This project analyzes food procurement transactions across agencies, vendors, di
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard4.png)
 
 ## Key Insights
 

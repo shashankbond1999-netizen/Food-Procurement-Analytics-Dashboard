@@ -1,5 +1,7 @@
 Food Procurement Analytics Dashboard
 # Food Procurement Analytics Dashboard
+Dashboard preview
+![Dashboard](Dashboard4.png)
 
 ## Project Overview
 
@@ -50,10 +52,6 @@ This project analyzes food procurement transactions across agencies, vendors, di
 * Agency slicer
 * Food Product Group slicer
 * Dynamic dashboard filtering
-
-## Dashboard Preview
-
-![Dashboard](Dashboard4.png)
 
 ## Key Insights
 
